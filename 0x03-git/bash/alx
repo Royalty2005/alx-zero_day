@@ -1,2 +1,6 @@
 #!bin/bash
+some code from master branch
 echo "ALX School is so cool!"
+=======
+echo "ALX School"
+some additional code from update_script
